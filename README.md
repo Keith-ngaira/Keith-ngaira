@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Keith Ngaira.<br>A young full-stack developer who studied Information Technology at Jomo Kenyatta University of Agriculture and Technology. <br>I love using tech to build impactful solutions.<br>Mostly I dwell on frontend development.<br>Code Alchemist | Debugging Enthusiast | Part-time Crisis Manager. "I’m not indecisive, I just like both the frontend and backend… sometimes at the same time."<br>
+I am Keith Ngaira.<br>A young full-stack developer who studied Information Technology at Jomo Kenyatta University of Agriculture and Technology. < I'm a dedicated programmer with a strong interest in C++, JavaScript,GO and Flutter development. I specialize in system integrations, SIP-based communication (PJSIP), and backend solutions. My work revolves around building scalable,frontend and efficient applications, whether it's real-time communication systems, APIs, or cross-platform apps.
+Always exploring new technologies and contributing to open-source projects.
 
 
 ## 🌐 Socials:
@@ -13,7 +14,3 @@ I am Keith Ngaira.<br>A young full-stack developer who studied Information Techn
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Keith-ngaira&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Keith-ngaira&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
