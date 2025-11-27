@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Keith Ngaira.<br>A young full-stack developer who studied Information Technology at Jomo Kenyatta University of Agriculture and Technology. < I'm a dedicated programmer with a strong interest in C++, JavaScript,GO and Flutter development. I specialize in system integrations, SIP-based communication (PJSIP), and backend solutions. My work revolves around building scalable,frontend and efficient applications, whether it's real-time communication systems, APIs, or cross-platform apps.
+I am Keith Ngaira.<br>A young full-stack developer who studied Information Technology at Jomo Kenyatta University of Agriculture and Technology. I'm a dedicated programmer with a strong interest in C++, JavaScript, TypeScript, GO and Flutter development. I specialize in system integrations, SIP-based communication (PJSIP), and backend solutions. My work revolves around building scalable,frontend and efficient applications, whether it's real-time communication systems, APIs, or cross-platform apps.
 Always exploring new technologies and contributing to open-source projects.
 
 
